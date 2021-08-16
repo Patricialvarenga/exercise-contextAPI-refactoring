@@ -1,4 +1,4 @@
-export const CHANGE_SIGNAL = 'CHANGE_SIGNAL';
+/* export const CHANGE_SIGNAL = 'CHANGE_SIGNAL';
 export const MOVE_CAR = 'MOVE_CAR';
 
 export const changeSignal = (payload) => ({
@@ -11,3 +11,4 @@ export const moveCar = (car, side) => ({
   car,
   side,
 });
+ */

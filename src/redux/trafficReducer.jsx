@@ -1,4 +1,4 @@
-// src/redux/trafficReducer.jsx
+/* // src/redux/trafficReducer.jsx
 
 import { CHANGE_SIGNAL } from './actionCreators';
 
@@ -18,4 +18,4 @@ function trafficReducer(state = initialState, action) {
   }
 }
 
-export default trafficReducer;
+export default trafficReducer; */

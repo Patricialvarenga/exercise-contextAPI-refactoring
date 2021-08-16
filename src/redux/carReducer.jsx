@@ -1,4 +1,4 @@
-// src/redux/carReducer.jsx
+/* // src/redux/carReducer.jsx
 
 import { MOVE_CAR } from './actionCreators';
 
@@ -22,4 +22,4 @@ function carReducer(state = initialState, action) {
   }
 }
 
-export default carReducer;
+export default carReducer; */

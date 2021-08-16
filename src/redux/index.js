@@ -1,4 +1,4 @@
-// src/redux/index.js
+/* // src/redux/index.js
 
 import { createStore, combineReducers } from 'redux';
 import carReducer from './carReducer';
@@ -13,4 +13,4 @@ const store = createStore(
   window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__()
 );
 
-export default store;
+export default store; */
